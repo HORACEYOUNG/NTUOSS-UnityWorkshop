@@ -50,7 +50,7 @@ Eg. “UnityConcept: Asset”
 
 ### What is Unity?
 
-![](NTUOSS-UnityWorkshop/Images/Unity-UI-Sample.jpg)
+![](Images/Unity-UI-Sample.jpg)
 
 ##### Unity is An all-in-one Editor that extends to match your production workflow
 
@@ -73,11 +73,11 @@ The Unity Editor features multiple tools that enable rapid editing and iteration
 ## Task 1. Create your first Project
 
 ​	When you first open unity, unity will ask you to log in (please register an account prior to the workshop or login with google or facebook accounts). 
-​	![](NTUOSS-UnityWorkshop/Images/1.b. Login.png)
+​	![](Images/1.b. Login.png)
 
 ​	After you've logged in, you will be directed to the list of existing projects both local and on cloud, here we click on the **New** button to create a new project.
 
-​	![](NTUOSS-UnityWorkshop/Images/1.c.CreateNewProject.png)
+​	![](Images/1.c.CreateNewProject.png)
 
 ​	The following information is required to create a new project:
 
@@ -97,7 +97,7 @@ The Unity Editor features multiple tools that enable rapid editing and iteration
 
 ​	A new Unity window of your project will be opened. This could take a few seconds to minutes. It might seem overwhelming at first but don’t worry, we’ll go through them one by one.
 
-![](NTUOSS-UnityWorkshop/Images/1.d.Layout.png)
+![](Images/1.d.Layout.png)
 
 ---
 
@@ -108,6 +108,8 @@ The Unity Editor features multiple tools that enable rapid editing and iteration
 > **Unity Asset Packages** and items on the Unity **Asset Store** are supplied in packages, which are **collections of files and data from Unity Projects**, or elements of Projects, which **are compressed and stored in one file**, similar to zip files. Like zip files.
 
 ​	For this Tutorial, we will be using an online package called [MarioCloneAssets.unitypackage](https://github.com/HORACEYOUNG/NTUOSS-UnityWorkshop/blob/master/MarioCloneAssets.unitypackage) under the root directory of the [workshop repository](https://github.com/HORACEYOUNG/NTUOSS-UnityWorkshop).
+
+![](Images/2.a.Asset Package.png)
 
 ### Task2.1. Import the Asset Package to Your Project
 
