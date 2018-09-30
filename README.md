@@ -73,7 +73,7 @@ The Unity Editor features multiple tools that enable rapid editing and iteration
 ## Task 1. Create your first Project
 
 ​	When you first open unity, unity will ask you to log in (please register an account prior to the workshop or login with google or facebook accounts). 
-​	![](Images/1.b. Login.png)
+​	![](Images/1.b.Login.png)
 
 ​	After you've logged in, you will be directed to the list of existing projects both local and on cloud, here we click on the **New** button to create a new project.
 
@@ -103,7 +103,7 @@ The Unity Editor features multiple tools that enable rapid editing and iteration
 
 ## Task 2. Import Assets and Build the Scene
 
-### UnityConcept: Asset Package
+### [UnityConcept: Asset Package](https://docs.unity3d.com/Manual/AssetPackages.html)
 
 > **Unity Asset Packages** and items on the Unity **Asset Store** are supplied in packages, which are **collections of files and data from Unity Projects**, or elements of Projects, which **are compressed and stored in one file**, similar to zip files. Like zip files.
 
