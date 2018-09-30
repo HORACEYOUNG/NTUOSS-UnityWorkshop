@@ -109,7 +109,7 @@ The Unity Editor features multiple tools that enable rapid editing and iteration
 
 ​	For this Tutorial, we will be using an online package called [MarioCloneAssets.unitypackage](https://github.com/HORACEYOUNG/NTUOSS-UnityWorkshop/blob/master/MarioCloneAssets.unitypackage) under the root directory of the [workshop repository](https://github.com/HORACEYOUNG/NTUOSS-UnityWorkshop).
 
-![](Images/2.a.Asset Package.png)
+![](Images/2.a.AssetPackage.png)
 
 ### Task2.1. Import the Asset Package to Your Project
 
